@@ -1,0 +1,7 @@
+x = input("Enter a String: ")
+print(x.endswith("."))
+print(x.isalpha())
+print('x' in x)
+print(len(x))
+print(x.replace("e", "E"))
+print("\n" in x)
